@@ -1,10 +1,5 @@
 # Full Stack NextGen Car Market - TestRyde.ai with Next JS, Supabase, Tailwind, Prisma, ArcJet, Shadcn UI 
 
-## Project Preview
-&nbsp;
-<a><img src="cover.png" height="600" width="600" /></a>
-- Live Prototype : [Click Here !](https://test-ryde-ai.vercel.app)
-- 
 TestRyde.ai is an AI-powered web platform designed to transform how people search for and experience cars. It offers features such as:
 
 • AI-driven car listings and search, helping customers find the right vehicle with precision.
@@ -18,6 +13,12 @@ The platform ensures that customers can explore, compare, and experience a wide 
 On the other side, it also supports sponsorship sellers and dealerships, giving them a dedicated space to showcase their vehicles. This creates an interactive and convenient bridge between sellers and buyers, with test drive bookings happening instantly through the platform.
 
 In short, TestRyde.ai aims to provide an uninterrupted, AI-driven car marketplace where technology meets customer experience, ensuring people find and enjoy the perfect vehicle for their needs.
+
+
+## Project Preview
+&nbsp;
+<a><img src="cover.png" height="1000" width="800" /></a>
+- Live Prototype : [Click Me](https://test-ryde-ai.vercel.app) 👈
 
 ## ⚙️ Tech Stack Used:
 For this project, I have worked with a modern and powerful tech stack, including:
