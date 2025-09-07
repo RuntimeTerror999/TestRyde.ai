@@ -3,7 +3,9 @@
 TestRyde.ai is an AI-powered web platform designed to transform how people search for and experience cars. It offers features such as:
 
 • AI-driven car listings and search, helping customers find the right vehicle with precision.
+
 • Smart price prediction models, providing accurate and fair price insights.
+
 • One-click test drive booking on any device, making the process simple and seamless.
 
 The platform ensures that customers can explore, compare, and experience a wide variety of vehicles before making their purchase decision—essentially allowing them to "taste" their dream car first.
