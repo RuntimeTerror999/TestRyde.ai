@@ -18,12 +18,19 @@ In short, TestRyde.ai aims to provide an uninterrupted, AI-driven car marketplac
 For this project, I have worked with a modern and powerful tech stack, including:
 
 • ⚡ Next.js – Frontend & Full-Stack Framework
+
 • 🔑 Clerk – Real-Time Authentication
+
 • 🗄️ Supabase – Database & Backend Services
+
 • 🔗 Prisma – ORM for Efficient Data Handling
+
 • 🛡️ ArcJet – Security & Protection
+
 • 🎨 TailwindCSS – Styling & Responsive Design
+
 • 🖌️ Shadcn UI – Custom Components & UI Enhancements
+
 • 🤖 Google DeepMind – AI-Powered Intelligence
 
 
